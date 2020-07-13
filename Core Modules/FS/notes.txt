@@ -1,0 +1,3 @@
+Wohoo, this is so cool, I can create text file using fs node module.
+ 
+Wohoo, and using appendFileSync method I can append some text to existing text.
